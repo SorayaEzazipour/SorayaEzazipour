@@ -1,16 +1,54 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
-<!--
-**SorayaEzazipour/SorayaEzazipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Soraya Ezazipour
+========================================================================================================================================
 
-Here are some ideas to get you started:
+Industrial Engineering Ph.D. student, Specializing in operations research, with expertise in combinatorial optimization, integer programming, network optimization, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ✉️  You can contact me at sezazip@okstate.edu, ezazipour@gmail.com
+* ⚡  I am currently work on solving combinatorial optimization problems in networks, with applications in political redistricting
+* 😊  I have passion for solving complex problems through interdisciplinary research, innovative algorithm design.
+
+You can download my CV here: [CV-Ezazipour](https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/blob/main/CV-Ezazipour.pdf)
+
+
+🧑‍💻 Research Interests:
+---
+
+📊 Operations research
+
+🧩 Combinatorial optimization
+
+🌐 Design and analysis of networks
+
+🤖  Artificial intelligence and machine learning.
+
+🎲 Optimization under uncertainty
+
+⏳ Discrete systems simulation
+
+
+
+🏫  Education:
+---
+📖 Ph.D. in Industrial Engineering & Management
+
+🎓  PhD in Applied mathematics, Iran University of Science and Technology, 2019.
+  
+
+🎓  Ms in Applied Mathematics, Tarbiat Modares University, 2009
+  
+
+🎓  BSc in Applied Mathematics, Yazd University, 2006.
+
+
+📚 Publications:
+---
+You can find my publications here [link](https://scholar.google.com/citations?user=CgtEausAAAAJ&hl=en)
+
+👥 Social:
+---
+- [GoogleScholor](https://scholar.google.com/citations?user=CgtEausAAAAJ&hl=en)
+- [Github](https://sorayaezazipour.github.io/)
+- [Linkedin](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)
+- [Researchgate](https://www.researchgate.net/profile/Soraya-Ezazipour)
