@@ -1,5 +1,4 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-
 ========================================================================================================================================
 
 My name is Soraya Ezazipour, an industrial engineering Ph.D. student, specializing in operations research, with expertise in combinatorial optimization, integer programming, network optimization, and machine learning.
