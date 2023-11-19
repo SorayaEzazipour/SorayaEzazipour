@@ -10,7 +10,7 @@ My name is Soraya Ezazipour, an industrial engineering Ph.D. student, specializi
 You can download my CV here: [CV-Ezazipour](https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/blob/main/CV-Ezazipour.pdf)
 
 
-🧑‍💻 Research Interests:
+## Research Interests:
 ---
 
 📊 Operations research
@@ -27,7 +27,7 @@ You can download my CV here: [CV-Ezazipour](https://github.com/SorayaEzazipour/S
 
 
 
-🏫  Education:
+##  Education:
 ---
 📖 Ph.D. in Industrial Engineering & Management
 
@@ -40,7 +40,7 @@ You can download my CV here: [CV-Ezazipour](https://github.com/SorayaEzazipour/S
 🎓  BSc in Applied Mathematics, Yazd University, 2006.
 
 
-📚 Publications:
+## Publications:
 ---
 You can find my publications here [link](https://scholar.google.com/citations?user=CgtEausAAAAJ&hl=en)
 
