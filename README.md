@@ -7,7 +7,7 @@ My name is Soraya Ezazipour, an industrial engineering Ph.D. student, specializi
 * ⚡  I currently work on solving combinatorial optimization problems in networks, with applications in political redistricting
 * 😊  I have passion for solving complex problems through interdisciplinary research, innovative algorithm design.
 
-You can download my CV here: [CV-Ezazipour]()
+You can download my CV here: [CV-Ezazipour](Soraya_Ezazipour.pdf)
 
 
  Research Interests:
