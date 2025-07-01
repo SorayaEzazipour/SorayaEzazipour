@@ -29,16 +29,7 @@ You can download my CV here: [CV-Ezazipour]()
 
   Education:
 ---
-📖 Ph.D. in Industrial Engineering & Management
-
-🎓  PhD in Applied mathematics, Iran University of Science and Technology, 2019.
-  
-
-🎓  Ms in Applied Mathematics, Tarbiat Modares University, 2009
-  
-
-🎓  BSc in Applied Mathematics, Yazd University, 2006.
-
+📖 Ph.D. in Industrial Engineering & Management, Oklahoma State University, 2025.
 
  Publications:
 ---
